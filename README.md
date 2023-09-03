@@ -2,6 +2,7 @@
 An obstacle avoiding toy car using Arduino 
 
 KEY ELEMENTS
+
 ➢Arduino UNO
 ➢Ultrasonic sensor
 ➢HBridge
